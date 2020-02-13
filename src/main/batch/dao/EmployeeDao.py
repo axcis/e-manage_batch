@@ -14,6 +14,8 @@ class EmployeeDao(BaseDao):
     COL_NAME = 'name'
     COL_HIRAGANA = 'hiragana'
     COL_HIRE_DATE = 'hire_date'
+    COL_HALF_HIRE_DATE = 'half_hire_date'
+    COL_ONE_YEAR_HIRE_DATE = 'one_year_hire_date'
     COL_RETIREMENT = 'retirement'
     COL_RETIREMENT_DATE = 'retirement_date'
 
